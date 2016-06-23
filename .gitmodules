@@ -1,0 +1,3 @@
+[submodule "DadosBicicletar"]
+	path = DadosBicicletar
+	url = git@github.com:paoloo/DadosBicicletar.git
